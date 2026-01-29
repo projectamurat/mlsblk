@@ -1,0 +1,10 @@
+# build
+mlsblk
+
+# macOS
+.DS_Store
+
+# editor
+*.swp
+*.swo
+*~
