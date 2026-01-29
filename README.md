@@ -47,4 +47,4 @@ mlsblk -l                 # list format (no tree)
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details. Copyright (c) Murat Kaan Tekeli.
+MIT License. See [LICENSE](LICENSE) for details. Copyright (c) 2026 Murat Kaan Tekeli.
